@@ -16,7 +16,6 @@ This is a content-based Movie Recommendation System built using Python, Streamli
 
 
 
-
 ## 📦 Features
 
 
@@ -32,7 +31,6 @@ This is a content-based Movie Recommendation System built using Python, Streamli
 
 
 ---
-
 
 
 
@@ -106,7 +104,7 @@ Then, put API key to config.json file.
 
 ```bash
 
-git clone https://github.com/yourusername/movie-recommendation-system.git
+git clone https://github.com/orkhan-muradov-dev/movie-recommendation-system.git
 
 cd movie-recommendation-system
 ```
