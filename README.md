@@ -16,6 +16,7 @@ This is a content-based Movie Recommendation System built using Python, Streamli
 
 
 
+
 ## 📦 Features
 
 
@@ -34,7 +35,9 @@ This is a content-based Movie Recommendation System built using Python, Streamli
 
 
 
+
 ## 📁 File Structure
+
 
 
 
