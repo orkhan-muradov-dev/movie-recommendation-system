@@ -1,0 +1,25 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# IDE and environment
+.idea/
+.vscode/
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+
+# Data and model artifacts
+*.pkl
+*.csv
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# pip requirements locking
+pip-selfcheck.json
