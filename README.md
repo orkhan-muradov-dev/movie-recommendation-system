@@ -106,7 +106,7 @@ Then, put API key to config.json file.
 git clone https://github.com/yourusername/movie-recommendation-system.git
 
 cd movie-recommendation-system
-
+```
 
 
 ### 2. Install Dependencies
@@ -116,7 +116,7 @@ cd movie-recommendation-system
 ```bash
 
 pip install -r requirements.txt
-
+```
 
 
 ### 3. Run Preprocessing (only once)
@@ -126,7 +126,7 @@ pip install -r requirements.txt
 ```bash
 
 python preprocess.py
-
+```
 
 
 ### 4. Launch the App
@@ -136,4 +136,4 @@ python preprocess.py
 ```bash
 
 streamlit run main.py
-
+```
