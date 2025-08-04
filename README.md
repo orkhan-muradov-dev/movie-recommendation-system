@@ -49,7 +49,7 @@ movie-recommendation-system/
 ├── .gitignore
 ├── config.json
 └── movies.csv
-
+```
 
 ---
 
