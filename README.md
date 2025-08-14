@@ -8,7 +8,7 @@ This is a content-based Movie Recommendation System built using Python, Streamli
 
 > ℹ️ **Credits**:  
 
-> This project is **based on a YouTube tutorial** for educational purposes. The core structure and logic follow the tutorial by **[Siddhardhan]** *(https://www.youtube.com/watch?v=Zc4CcUkYKJk&t=205s&ab_channel=Siddhardhan)*. I completed this as part of my coursework and do not claim original authorship of the core algorithm.
+> This project is **based on a YouTube tutorial** for educational purposes. The core structure and logic follow the tutorial by **[Siddhardhan](https://www.youtube.com/watch?v=Zc4CcUkYKJk&t=205s&ab_channel=Siddhardhan)**. I completed this as part of my coursework and do not claim original authorship of the core algorithm.
 
 
 
