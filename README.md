@@ -82,7 +82,7 @@ This project uses the [OMDB API](https://www.omdbapi.com/) to fetch additional m
 
 👉 To get your free API key:
 
-1. Visit https://www.omdbapi.com/apikey.aspx
+1. Visit [OMDb API](https://www.omdbapi.com/apikey.aspx)
 
 2. Choose the free plan and register with your email
 
